@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1530862165 source:f:\my codes and designs\simulator 8085\8085sim\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<math.h>
+	<sstream>
+
+1530680522 source:f:\my codes and designs\c scratchpad\scratchpad.cpp
+	<iostream>
+
